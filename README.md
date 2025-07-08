@@ -10,7 +10,7 @@ By the end of this workshop, you will understand how to build a secure, producti
 
 ## 🧭 Architecture Overview
 
-! [AWS Architecture Diagram](https://github.com/vitthalSanadhya/3-Tire-AWS-Project/assets/)
+! [AWS Architecture Diagram](https://drive.google.com/file/d/1Vj4owcFLKJj7GeEBa-rOJYjifMZBvjgs/view?usp=sharing)
 
 ### Key Components:
 
