@@ -11,6 +11,7 @@ By the end of this workshop, you will understand how to build a secure, producti
 ## 🧭 Architecture Overview
 
 ! [AWS Architecture Diagram](https://drive.google.com/file/d/1Vj4owcFLKJj7GeEBa-rOJYjifMZBvjgs/view?usp=sharing)
+<img title="3-Tier-Architecture" alt="Alt text" src="https://drive.google.com/file/d/1Vj4owcFLKJj7GeEBa-rOJYjifMZBvjgs/view?usp=sharing">
 
 ### Key Components:
 
