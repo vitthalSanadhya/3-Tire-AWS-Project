@@ -2,7 +2,8 @@
 
 ## 📘 Overview
 
-This hands-on workshop walks you through building a fully functional **three-tier web architecture on AWS**. You'll manually create and configure all necessary components—networking, computing, security, and database—to ensure high **availability**, **scalability**, and **resilience** of the application infrastructure.
+This is a three-tier web architecture on the AWS Project. The project included manual setup of networking, compute, security, and database layers. I deployed a full-stack React/Node.js application with an Aurora MySQL backend. The system was designed for high **availability**, **scalability**, and **security**. This project demonstrates hands-on expertise in deploying production-grade AWS environments.
+
 
 By the end of this workshop, you will understand how to build a secure, production-grade cloud environment using core AWS services and deploy a sample React/Node.js application with an Aurora MySQL backend.
 
