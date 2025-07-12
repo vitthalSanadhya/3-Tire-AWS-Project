@@ -101,7 +101,7 @@ Also, enable **VPC Flow Logs** and configure them to deliver logs to your VPC lo
 1. Launch a test EC2 instance in a private subnet.
 2. Install Node.js and other dependencies.
 3. Run application tests and validate DB connectivity.
-4. [Use these setup commands](https://github.com/vitthalSanadhya/3-Tire-AWS-Project/main/app-server-commands).
+4. [Use these setup commands](https://github.com/vitthalSanadhya/3-Tire-AWS-Project/blob/main/App-Server%20cmd/app-server-cmd.md)
 5. Create an **AMI** from this instance.
 6. Create:
    - Launch Template (using the AMI)
@@ -117,7 +117,7 @@ Also, enable **VPC Flow Logs** and configure them to deliver logs to your VPC lo
 1. Launch a test EC2 instance in a public subnet.
 2. Install Nginx, Node.js, and React.js.
 3. Test the frontend and ensure it proxies API requests to the app tier.
-4. [Use these setup commands](https://github.com/vitthalSanadhya/3-Tire-AWS-Project/main/web-server-commands).
+4. [Use these setup commands](https://github.com/vitthalSanadhya/3-Tire-AWS-Project/blob/main/Web-Server%20cmd/web-server-cmd.md).
 5. Create an **AMI** from this instance.
 6. Create:
    - Launch Template (using the AMI)
