@@ -14,6 +14,15 @@ By the end of this workshop, you will understand how to build a secure, producti
 ! [AWS Architecture Diagram](https://drive.google.com/file/d/1Vj4owcFLKJj7GeEBa-rOJYjifMZBvjgs/view?usp=sharing)
 <img title="3-Tier-Architecture" alt="Alt text" src="https://drive.google.com/file/d/1Vj4owcFLKJj7GeEBa-rOJYjifMZBvjgs/view?usp=sharing">
 
+---
+
+## 🧭 Architecture Overview
+
+![AWS Architecture Diagram](https://drive.google.com/uc?export=view&id=1Vj4owcFLKJj7GeEBa-rOJYjifMZBvjgs)
+<img title="3-Tier-Architecture" alt="Alt text" src="https://drive.google.com/uc?export=view&id=1Vj4owcFLKJj7GeEBa-rOJYjifMZBvjgs">
+
+
+
 ### Key Components:
 
 - **Web Tier (Frontend)**: Public-facing EC2 instances running Nginx and serving a React.js application.
